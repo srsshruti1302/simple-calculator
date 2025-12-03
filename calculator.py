@@ -1,4 +1,3 @@
-```python
 #!/usr/bin/env python3
 """
 simple_calculator_and_helpers.py
